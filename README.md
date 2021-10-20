@@ -51,9 +51,15 @@ Altere o nome da variavel *entrada* para analisar a imagem desejada:
 [GitHub](https://github.com/Orbeli/projeto-copos) - GitHub do projeto  
 
 ---
-## Author
+## Authors
 Gabriel Orbeli Rodrigues Belíssimo
 
 [E-mail](mailto:gabriel.orbeli@gmail.com)
 [GitHub](https://github.com/Orbeli)
 [Linkedin](https://www.linkedin.com/in/gabriel-orbeli-436815171/)
+
+Guilherme Henrique de Oliveira
+
+[E-mail](mailto:henriqueoliveiragui18@gmail.com)
+[GitHub](https://github.com/Guilherme1-jpg)
+[Linkedin](https://www.linkedin.com/in/guilherme-henrique-6b3389136/)
