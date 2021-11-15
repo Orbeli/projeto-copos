@@ -1,5 +1,5 @@
 # Projeto Copos
-Projeto criado para a disciplina de Processamento de Imagens e tem como objetivo determinar se um copo está cheio ou vazio utilizando técnicas de processamento de imagens.
+Projeto criado para a disciplina de Processamento de Imagens e tem como objetivo determinar se um copo está cheio ou vazio utilizando técnicas de processamento de imagens. Atualmente o projeto tem uma taxa de acerto de 100%.
 
 ---
 ## Requisitos
